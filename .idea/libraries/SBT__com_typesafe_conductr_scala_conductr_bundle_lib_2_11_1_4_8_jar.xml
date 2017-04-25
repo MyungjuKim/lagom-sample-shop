@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.typesafe.conductr:scala-conductr-bundle-lib_2.11:1.4.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.conductr/scala-conductr-bundle-lib_2.11/jars/scala-conductr-bundle-lib_2.11-1.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.conductr/scala-conductr-bundle-lib_2.11/srcs/scala-conductr-bundle-lib_2.11-1.4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

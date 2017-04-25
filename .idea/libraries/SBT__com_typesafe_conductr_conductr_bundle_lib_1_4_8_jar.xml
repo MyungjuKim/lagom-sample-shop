@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.typesafe.conductr:conductr-bundle-lib:1.4.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.conductr/conductr-bundle-lib/jars/conductr-bundle-lib-1.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.conductr/conductr-bundle-lib/srcs/conductr-bundle-lib-1.4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

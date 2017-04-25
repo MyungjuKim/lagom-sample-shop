@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-sample-shop.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-sample-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-sample-shop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-sample-shop-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-api/shop-api.iml" filepath="$PROJECT_DIR$/shop-api/shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-impl/shop-impl.iml" filepath="$PROJECT_DIR$/shop-impl/shop-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-impl-build.iml" />
+    </modules>
+  </component>
+</project>
